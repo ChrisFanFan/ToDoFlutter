@@ -1,3 +1,7 @@
+I am a beginner in flutter programming and forked the ToDoFlutter project from https://github.com/mitchkoko/ToDoFlutter to practice the language.
+
+------------------------------------------------------------------
+
 # TO DO APP ❤️ Made with Flutter
 
 Full tutorial here: https://youtu.be/mMgr47QBZWA
